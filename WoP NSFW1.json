@@ -1,5 +1,5 @@
 {
-    "DeckName": "Kotti's Allrounder (Deutsch)",
+    "DeckName": "Kotti's NSFW Questions (Deutsch)",
 
     "DeckBy": "Kotti",
 
@@ -8,7 +8,7 @@
         "Erzähle <player> <range[1-10]> Fakten über dich selbst.",
         "<local>, wen hier magst du am meisten?",
       	"Wie viele Jungs hast du bisher geküsst?",
-        "Wie viele Jungs hast du bisher geküsst?",
+        "Wie viele Mädchen hast du bisher geküsst?",
         "Wann hattest du das letzte Mal Sex? und wenn nicht, hättest du gerne?",
         "Mit wem hattest du das letzte Mal Sex? und wenn nicht, mit wem hättest du gerne?",
         "Wenn du mit einer Person in der Runde schlafen müsstest, wen würdest du auswählen?",
@@ -121,7 +121,7 @@
       	"Du darfst nur noch Miauen für <range[1-10]> Runden.",
         "Setze dich neben <player>.",
         "Lass <player> dich <range[1-5]> mal schlagen.",
-	      "Ziehe ein Kleidungsstück aus.",
+	"Ziehe ein Kleidungsstück aus.",
         "Du bist jetzt gefesselt! Du darfst dich für <range[1-25]> Runden nicht bewegen und alle anderen dürfen mit dir anstellen was sie wollen.",
         "Roleplaye als Sexsüchtiger Luigi",
         "Schicke einer Person deiner Wahl eine erotische Nachricht.",
@@ -141,7 +141,7 @@
         "<player> darf alles mit dir anstellen was er möchte",
       	"Du darfst nur noch Flüstern für <range[1-10]> Runden.",
         "Du darfst nicht mehr nein sagen für <range[1-5]> Runden.",
-        "Schreibe einen kurzen erotischen Text und poste ihn in der Gruppe."
-        
+        "Schreibe einen kurzen erotischen Text und poste ihn in der Gruppe.",
+	"Du darfst für <range[1-10]> nur noch deine Unterhose tragen."
     ]
 }
